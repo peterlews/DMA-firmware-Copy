@@ -4,7 +4,7 @@ This tool is designed to clone DMA devices, allowing you to create a `.bin` firm
 ## Hardware requirements
 - DMA(75T/35T)
 
-- PCIE Dongle 
+- PCIE Dongle http://dongle.kkword.store/ You can get him here Mailings are only supported to some countries in Europe and Asia!
 
 ## Features
 
