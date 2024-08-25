@@ -2,7 +2,9 @@
 
 This tool is designed to clone DMA devices, allowing you to create a `.bin` firmware file that will be saved in the same directory as the software. It offers flexible options for selecting device capacity, decryption methods, and handling device-specific locks.
 
-![微信截图_20240826000850](https://github.com/user-attachments/assets/49a4d422-cfff-4163-b670-7a993ae173c2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49a4d422-cfff-4163-b670-7a993ae173c2" alt="微信截图_20240826000850">
+</p>
 
 ## Hardware requirements
 
