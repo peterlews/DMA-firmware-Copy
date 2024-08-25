@@ -4,6 +4,7 @@ This tool is designed to clone DMA devices, allowing you to create a `.bin` firm
 
 ##Hardware requirements
 DMA(75T/35T)
+
 PCIE Dongle 
 
 ## Features
