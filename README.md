@@ -1,7 +1,10 @@
 # DMA Device Cloning Tool
 
 This tool is designed to clone DMA devices, allowing you to create a `.bin` firmware file that will be saved in the same directory as the software. It offers flexible options for selecting device capacity, decryption methods, and handling device-specific locks.
+![微信截图_20240826000850](https://github.com/user-attachments/assets/49a4d422-cfff-4163-b670-7a993ae173c2)
+
 ## Hardware requirements
+
 - DMA(75T/35T)
 
 - PCIE Dongle http://dongle.kkword.store/ You can get him here Mailings are only supported to some countries in Europe and Asia!
