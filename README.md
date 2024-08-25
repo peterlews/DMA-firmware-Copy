@@ -2,9 +2,9 @@
 
 This tool is designed to clone DMA devices, allowing you to create a `.bin` firmware file that will be saved in the same directory as the software. It offers flexible options for selecting device capacity, decryption methods, and handling device-specific locks.
 ## Hardware requirements
-- **DMA(75T/35T)
+- DMA(75T/35T)
 
-- **PCIE Dongle 
+- PCIE Dongle 
 
 ## Features
 
