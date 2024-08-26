@@ -11,7 +11,8 @@ This tool is designed to clone DMA devices, allowing you to create a `.bin` firm
 - DMA(75T/35T)
 
 - PCIE Dongle http://dongle.kkword.store/ You can get him here Mailings are only supported to some countries in Europe and Asia!
-
+  
+-  https://discord.gg/xr4YF8cVx3 If you have questions, you can join my group to learn and exchange!
 ## Features
 
 - **Select Capacity:** Choose between 75T or 35T for the device capacity.
